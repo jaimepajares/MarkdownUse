@@ -10,3 +10,7 @@ The code below is a example of declarations on C#
 ```
 string valueText = string.Empty;
 ```
+### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
